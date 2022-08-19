@@ -1,47 +1,51 @@
-# Resolution of the 'GetPDF' Cyberdefenders Challenge
+# Resolution of the 'GrabThePhisher' Cyberdefenders Challenge
 
-### The challenge is available at https://cyberdefenders.org/blueteam-ctf-challenges/47
+### The challenge is available at https://cyberdefenders.org/blueteam-ctf-challenges/95
 
-## 1. How many URL path(s) are involved in this incident?
-
-Answer:
-
-## 2. What is the URL which contains the JS code?
+## 1. Which wallet is used for asking the seed phrase?
 
 Answer:
 
-## 3. What is the URL hidden in the JS code?
+## 2. What is the file name that has the code for the phishing kit?
 
 Answer:
 
-## 4. What is the MD5 hash of the PDF file contained in the packet
+## 3. In which language was the kit written?
 
 Answer:
 
-## 5. How many object(s) are contained inside the PDF file?
+## 4. What service does the kit use to retrieve the victim's machine information?
 
 Answer:
 
-## 6. How many filtering schemes are used for the object streams?
+## 5. How many seed phrases were already collected?
 
 Answer:
 
-## 7. What is the number of the 'object stream' that might contain malicious JS code?
+## 6. Write down the seed phrase of the most recent phishing incident?
 
 Answer:
 
-## 8. Analyzing the PDF file. What 'object-streams' contain the JS code responsible for executing the shellcodes? The JS code is divided into two streams. Format: two numbers separated with ','. Put the numbers in ascending order
+## 7. Which medium had been used for credential dumping?
 
 Answer:
 
-## 9. The JS code responsible for executing the exploit contains shellcodes that drop malicious executable files. What is the full path of malicious executable files after being dropped by the malware on the victim machine?
+## 8. What is the token for the channel?
 
 Answer:
 
-## 10. The PDF file contains another exploit related to CVE-2010-0188. What is the URL of the malicious executable that the shellcode associated with this exploit drop?
+## 9. What is the chat ID of the phisher's channel?
 
 Answer:
 
-## 11. How many CVEs are included in the PDF file?
+## 10. What are the allies of the phish kit developer?
+
+Answer:
+
+## 11. What is the full name of the Phish Actor?
+
+Answer:
+
+## 12. What is the username of the Phish Actor?
 
 Answer:
